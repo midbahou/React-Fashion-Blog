@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+h1{
+    color: tomato;
+}
