@@ -11,7 +11,7 @@ function Article() {
                     <time dateTime="02/26/2025">26 Feb 2025</time>
                     <h2>On the Street in Brooklyn</h2>
                     <img src={photo1} alt="A woman in Brooklyn street" />
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facere aliquam itaque, facilis enim sint eligendi ea quae magni praesentium, nihil labore quod reiciendis perferendis non impedit repellat blanditiis voluptatum quasi!
+                    <p>Forem ipsum dolor sit, amet consectetur adipisicing elit. Facere aliquam itaque, facilis enim sint eligendi ea quae magni praesentium, nihil labore quod reiciendis perferendis non impedit repellat blanditiis voluptatum quasi!
                     Deleniti repudiandae obcaecati vel deserunt voluptates mollitia nesciunt quibusdam dolorem neque fuga possimus, suscipit sed aspernatur! Rerum, eum molestiae? Odio consequuntur laudantium magni id similique. Alias in maxime molestias rem.
                     Natus dignissimos quia, quidem aliquam, blanditiis molestias hic iste quaerat cum eum ex beatae nostrum quis vel? Consequatur nobis maiores facere minus quos autem quas. Sequi numquam laudantium alias perspiciatis?
                     Ipsum ipsam atque, sequi possimus consectetur itaque vitae pariatur! Veniam harum odio commodi doloribus provident aut, ab voluptas molestias eligendi doloremque culpa omnis est qui voluptatum! Odit qui quod fugiat.

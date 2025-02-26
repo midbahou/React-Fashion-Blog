@@ -7,15 +7,26 @@ a{
     justify-content: end;
     padding-top: 2rem;
     padding-bottom: 0px;
+    color: rgb(26, 3, 3);
 }
 
 article{
+    font-size: 20px;
     margin-top: 3rem;
     margin-bottom: 2rem;
+    margin: 20px;
+    font-style: oblique;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 p::first-letter{
-    font-size: 1.5rem;
+    font-size: 500%;
     font-weight: bold;
     color: brown;
+    float: left;
+    margin-right: 15px;
+}
+
+time{
+    color: rgb(89, 87, 87);
 }

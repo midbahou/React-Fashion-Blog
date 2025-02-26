@@ -1,0 +1,9 @@
+.footer-nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h3{
+    color: rgb(102, 102, 102);
+    padding-left: 70px;
+}

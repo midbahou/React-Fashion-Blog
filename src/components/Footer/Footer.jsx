@@ -1,4 +1,4 @@
-
+import "../Footer/Footer.css"
 
 function Footer() {
     
@@ -6,7 +6,7 @@ function Footer() {
         <div>
        
        <nav aria-label="Footer Navigation" role="navigation">
-        <ul className="footer-nav" style={{display: "flex", justifyContent: "space-evenly"}}>
+        <ul className="footer-nav">
             <li><a href="#">Home</a></li>
             <li><a href="#">Women's</a></li>
             <li><a href="#">Men's</a></li>

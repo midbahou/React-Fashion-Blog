@@ -11,7 +11,7 @@ function App() {
       <Header />
       {/* <hr /> */}
       <NavBar />
-      {/* <hr /> */}
+      <hr />
       <Article />
       <hr />
       <Footer />

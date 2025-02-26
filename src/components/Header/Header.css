@@ -4,8 +4,10 @@
     padding-bottom: 1rem;
     padding-left: 2rem;
     padding-right: 2rem;
+    background: linear-gradient(to right, #7a7c7e, #33989d);
 }
 
 h1{
     color: tomato;
+    font-size: 50px;
 }
